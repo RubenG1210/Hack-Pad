@@ -24,7 +24,6 @@ I wanted to improve my skills, which include PCD and CAD Designing. The main use
 <h1>3D Case BOTTOM</h1>
 <img width="1470" height="956" alt="Screenshot 2026-06-04 at 1 50 08 PM" src="https://github.com/user-attachments/assets/b5b44b59-69b7-4022-a312-cceaf5b4c6ad" />
 
-
 <h1>CREDITS</h1>
 I give credit to OPENAI ChatGPT and Anthropic Claude, For guiding me through the project, such as explaining how to use certain applications I was new to, recommending designs and giving inspiration for designs.
 
