@@ -12,7 +12,10 @@
 I wanted to improve my skills, which include PCD and CAD Designing. The main use intended for this a simple, yet effective an useable Copy and Paste mini keyboard
 
 <h1>PCB</h1>
-<img src="file:///Users/ruben_galvan/Desktop/Screenshot%202026-06-04%20at%201.40.11%E2%80%AFPM.png" alt="App interface" width="600">
+<img width="1470" height="956" alt="PCB_Layout" src="https://github.com/user-attachments/assets/5055e43a-17db-49ef-b7fb-8c7df51ebc84" />
+
+
+
 
 
 
